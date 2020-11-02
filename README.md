@@ -1,1 +1,0 @@
-# strongmens.github.io
