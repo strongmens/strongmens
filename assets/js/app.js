@@ -836,8 +836,8 @@ var THEMEIM = THEMEIM || {};
     /*=================================*/
 
     countDown: function() {
-      $('#count_down').countdown('2018/08/25', function(event) {
-        $(this).html(event.strftime('<p><span>%D</span> days</p>'));
+      $('#count_down').countdown('2020/12/25', function(event) {
+        $(this).html(event.strftime('<p><span>%D</span> Hari </p>'));
       });
     },
   };
